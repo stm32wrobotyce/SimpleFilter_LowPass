@@ -1,0 +1,2 @@
+../Core/Src/simple_filters.c:15:6:filter_lowpass_init	4	static
+../Core/Src/simple_filters.c:21:9:filter_lowpass	16	static

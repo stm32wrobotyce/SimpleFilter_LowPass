@@ -1,0 +1,2 @@
+circular_buffer.c:11:6:circular_buffer_init	2
+circular_buffer.c:22:6:circular_buffer_push	1
